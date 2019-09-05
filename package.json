@@ -1,0 +1,29 @@
+{
+  "name": "node-sentry",
+  "version": "0.0.0",
+  "description": "sentry client for nodejs",
+  "main": "index.js",
+  "scripts": {
+    "test": "node test/test.js"
+  },
+  "keywords": [
+    "sentry"
+  ],
+  "author": "lsong",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/song940/node-sentry.git"
+  },
+  "bugs": {
+    "url": "https://github.com/song940/node-sentry/issues"
+  },
+  "homepage": "https://github.com/song940/node-sentry#readme",
+  "engines": {
+    "node": ">=8"
+  },
+  "directories": {
+    "example": "example",
+    "test": "test"
+  }
+}
